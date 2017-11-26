@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8d4d23530127738479c7f6d5d118ca52
+timeCreated: 1511390643
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: my derp handwriting
+  fontNames:
+  - my derp handwriting
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
